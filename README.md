@@ -15,3 +15,12 @@ Este proyecto nace como aprendizaje sobre bases de datos aplicado a un caso real
 
 # Cómo ejecutar
 
+
+# Entorno de trabajo con MySQL WORKBENCH
+
+ * Conexión de desarrollo ANRRES_DEV con esquema anrres3d_bd1 con privilegios acotados.
+ * Éste entorno se usa para desarrollar la base de datos del proyecto.
+ * Como buenas prácticas los permisos del usuario se limitan a lo necesario para desarrollo y pruebas.
+
+
+
